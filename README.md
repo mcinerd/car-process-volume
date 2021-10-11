@@ -2,8 +2,10 @@
 
 This project uses the JavaScript library Three.Js to build a 3D interactive representation of an LED volume used for car process filmmaking. 
 
-The volume is composed of three ground-supported LED walls and a flown ceiling. 
-Each of these walls displays a previously filmed "driving plate" mapped to its corresponding angle. 
-The front wall displays the front plate, the left wall displays the left plate, etc.
+The LED volume is composed of three ground-supported LED walls and a flown ceiling wall. 
+Each of these LED walls displays footage previously shot with a 360 degree camera on a rigged car. This kind of footage is commonly known as "driving plates".
+The footage on each wall matches it corresponding angle from the driving plate so that the left wall displays the left view, the front wall displays the front view, etc.
+Synced together, the LED volume gives the illusion of being inside a moving car.
+This technique is useful for filming driving scenes in film & television within the controlled confines of a sound stage, without the need for costly car rigs and location permits. 
 
-This web application allows the user to orbit around the volume, as well as change driving plates, cars and camera angles. 
+This web application allows the user to orbit around the volume, change driving plates, vehicles and camera angles. 
