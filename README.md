@@ -1,6 +1,6 @@
-# car-process-volume
+# Car Process LED Volume
 
-This project uses the JavaScript library Three.Js to build an interactive 3D representation of an LED volume used for "car process" filmmaking. 
+This project uses the JavaScript library Three.js to build an interactive 3D representation of an LED volume used for "car process" filmmaking. 
 
 The LED volume is composed of three ground-supported LED walls and a flown ceiling wall. 
 Each of these LED walls displays footage previously shot with a 360 degree camera on a rigged car. This kind of footage is commonly known as "driving plates".
